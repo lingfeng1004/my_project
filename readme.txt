@@ -5,4 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Git merge is fast-forward.
 Hello Git. 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
