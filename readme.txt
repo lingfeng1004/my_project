@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick.
-Git merge is fast-forward. 
+Git merge is fast-forward.
+Hello world. 
