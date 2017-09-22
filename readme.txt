@@ -6,4 +6,5 @@ Creating a new branch is quick.
 Git merge is fast-forward.
 Hello Git. 
 Creating a new branch is quick AND simple.
+hello world
 
