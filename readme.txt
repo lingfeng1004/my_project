@@ -7,4 +7,4 @@ Git merge is fast-forward.
 Hello Git. 
 Creating a new branch is quick AND simple.
 hello world. Hello everyone.
-git branch is very goods.
+git branch is very good.
